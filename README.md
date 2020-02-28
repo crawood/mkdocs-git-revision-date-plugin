@@ -1,6 +1,6 @@
 # mkdocs-git-revision-date-plugin
 
-MkDocs plugin for setting revision date from git per markdown file.
+MkDocs plugin for setting revision date (most recent date between merge & commit) from git per markdown file.
 
 ## Setup
 Install the plugin using pip:
